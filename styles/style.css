@@ -1,0 +1,39 @@
+html{
+  font-size: 10px;
+  font-family: "Noto Serif JP";
+  background-color: #fffafa;
+}
+
+h1{
+  margin: 0;
+  padding: 20px 0;
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 3px 3px 3px gray;
+}
+
+h2{
+  text-align: center;
+  padding-top: 30px;
+}
+
+p,li{
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: 1px;
+}
+
+body{
+  width: 600px;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: #ffffff;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
